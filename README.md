@@ -12,19 +12,17 @@
   </a> 】
 </p>
 
-<a href="https://trendshift.io/repositories/3709" target="_blank"><img src="https://trendshift.io/api/badge/repositories/3709" alt="ByteByteGoHq%2Fsystem-design-101 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+# System Design Interview
 
-# System Design 101
+使用可视化和简单的术语来解释复杂的系统。
 
-Explain complex systems using visuals and simple terms. 
-
-Whether you're preparing for a System Design Interview or you simply want to understand how systems work beneath the surface, we hope this repository will help you achieve that.
+无论您是为系统设计面试做准备，还是仅仅想要了解系统在表面之下的工作原理，我们希望这个仓库能帮助实现目标。
 
 # Table of Contents
 
 <!-- TOC toc.levels=2 -->
 
-- [Communication protocols](#communication-protocols)
+- [Communication protocols](#通信协议)
   - [REST API vs. GraphQL](#rest-api-vs-graphql)
   - [How does gRPC work?](#how-does-grpc-work)
   - [What is a webhook?](#what-is-a-webhook)
@@ -107,9 +105,9 @@ Whether you're preparing for a System Design Interview or you simply want to und
 
 <!-- /TOC -->
 
-## Communication protocols
+## 通信协议
 
-Architecture styles define how different components of an application programming interface (API) interact with one another. As a result, they ensure efficiency, reliability, and ease of integration with other systems by providing a standard approach to designing and building APIs. Here are the most used styles:
+架构风格定义了API中不同组件之间的相互作用。因此，它们通过提供一种标准的设计和构建API的方法，确保了效率、可靠性和与其他系统的集成的便利性。以下是最常用的几种风格：
 
 <p>
   <img src="images/api-architecture-styles.png" style="width: 640px">
