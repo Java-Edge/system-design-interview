@@ -1,14 +1,14 @@
 <p>
-  <a href="https://blog.bytebytego.com/?utm_source=site"><img src="images/banner.jpg" /> </a>
+  <a href="http://www.javaedge.cn/#/index"><img src="images/banner.jpg" /> </a>
 </p>
 
 <p align="center">
   【
-  <a href="https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw">
-    👨🏻‍💻 YouTube
+  <a href="https://space.bilibili.com/242935583">
+    👨🏻‍💻 bilibili
   </a> | 
-  <a href="https://blog.bytebytego.com/?utm_source=site">
-    📮 Newsletter
+  <a href="http://www.javaedge.cn/#/special">
+    📮 专栏
   </a> 】
 </p>
 
